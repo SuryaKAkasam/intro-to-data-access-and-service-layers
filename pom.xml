@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.suryaakasam</groupId>
-    <artifactId>Upgrad-Microservices-Data-Access-Layer-And-Service-Layer</artifactId>
+    <artifactId>intro-to-data-access-and-service-layers</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
