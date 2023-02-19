@@ -1,4 +1,4 @@
-# Data-Access-Layer-And-Service-Layer
+# Intro-To-Data-Access-Layer-And-Service-Layer
 - A SpringBoot based project to learn the Data Access and Service layer implementations using JPA and Hibernate
 - This project builds a simple movie ticket booking app to learn these concepts
 
